@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Happy 10 Months, My Shona 💖</title>
+
+  <!-- Import Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      background-color: #fff0f6;
+      color: #4a154b;
+      font-family: 'Quicksand', sans-serif;
+      padding: 40px;
+      line-height: 1.8;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #d63384;
+      font-weight: 600;
+    }
+    .heart {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 30px;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 800px;
+      margin: 0 auto 25px auto;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 1.1rem;
+      color: #a61e4d;
+    }
+    iframe {
+      display: block;
+      margin: 30px auto;
+    }
+    .cute-image {
+      display: block;
+      margin: 30px auto;
+      max-width: 90%;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="heart">💗💗💗</div>
+  <h1>Happy 10 Months, My Sweet Shona 💖</h1>
+  <h2>To the Jaanu who owns my heart…</h2>
+
+  <!-- Spotify Embed for the Song -->
+  <iframe 
+    src="https://open.spotify.com/embed/track/6jgkEbmQ2F2onEqsEhiliL" 
+    width="300" 
+    height="80" 
+    frameborder="0" 
+    allowtransparency="true" 
+    allow="encrypted-media">
+  </iframe>
+
+  <p>Hi baby. 🥺💕<br>
+  Can you believe it’s been 10 whole months? Every single day with you has been like living inside a dream I never want to wake up from. You’re not just my girlfriend — you’re my Shona, my Jaanu, my sunshine, my heart’s favorite person.</p>
+
+  <!-- 🐱 Cute Cat Image 1 -->
+  <img class="cute-image" src="https://i.imgur.com/UJzONPm.jpg" alt="Cute cat looking up" />
+
+  <p>You make my world softer, sweeter, and so much brighter. Whether you’re being cute, silly, sleepy, or dramatic (which you are and I love it 😘), you make my heart feel so full. I fall in love with you a little more every day.</p>
+
+  <p>Shona, you have the kindest heart and the prettiest smile. You say things that make my whole day better, even when you don’t realize it. Just hearing your voice can turn the worst day into the best one.</p>
+
+  <!-- 🐰 Cute Bunny Image -->
+  <img class="cute-image" src="https://i.imgur.com/rBPEZ8j.jpg" alt="Fluffy bunny lying down" />
+
+  <p>And Jaanu, you’re only 19 but you already love like a queen. So deep, so pure, and so real. You’ve taught me patience, softness, and how beautiful love can be when it's honest and gentle.</p>
+
+  <p>These 10 months haven’t just been a relationship. They’ve been a journey. A love story with giggles, late-night chats, random “I love yous,” and dreams we whisper to each other under the stars.</p>
+
+  <p>You’re not just my girl. You’re my best friend. My calm place. My future. I see you in everything beautiful now. Songs, sunsets, butterflies — they all remind me of you, Shona.</p>
+
+  <!-- 🐱 Cute Cat Image 2 -->
+  <img class="cute-image" src="https://i.imgur.com/o0eY3cW.jpg" alt="Adorable sleepy kitten" />
+
+  <p>Thank you, Jaanu, for choosing me. For trusting me. For letting me love you. I promise I’ll never stop. You’ve changed my life just by being in it.</p>
+
+  <p>Even if I wrote a million words, I couldn’t express how much you mean to me. But here’s a start. This little website is my love letter to you, wrapped in code and cuddles. 💌</p>
+
+  <p>Let’s celebrate 10 magical months of us… and dream about forever. Because with you, forever doesn’t feel scary — it feels like home. 💍</p>
+
+  <p>I love you more than anything in the whole wide universe. Happy anniversary, my Shona. You are my everything. 💕</p>
+
+  <div class="heart">💗💗💗</div>
+
+  <div class="footer">
+    With all my love,<br>
+    Your Jaan 💌
+  </div>
+
+</body>
+</html>
